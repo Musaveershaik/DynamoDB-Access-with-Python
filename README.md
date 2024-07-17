@@ -43,7 +43,7 @@ This repository provides a Python script to access DynamoDB using AWS credential
    session = boto3.Session(
        aws_access_key_id='your_access_key',
        aws_secret_access_key='your_secret_key',
-       region_name='ap-northeast-2'
+       region_name='your_region'
    )
    
    # Initialize DynamoDB resource
