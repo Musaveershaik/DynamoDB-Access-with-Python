@@ -19,7 +19,7 @@ This repository provides a Python script to access DynamoDB using AWS credential
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dynamodb-access-python.git
+   https://github.com/Musaveershaik/DynamoDB-Access-with-Python.git
    cd dynamodb-access-python
 2. Install the required Python libraries:
    ```bash
