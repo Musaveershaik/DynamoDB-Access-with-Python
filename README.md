@@ -50,7 +50,7 @@ This repository provides a Python script to access DynamoDB using AWS credential
    dynamodb = session.resource('dynamodb')
    
    # Specify the table name
-   table_name = 'FIRST-TABLE'
+   table_name = 'your_table_name'
    table = dynamodb.Table(table_name)
    
    # Function to get an item from the table
