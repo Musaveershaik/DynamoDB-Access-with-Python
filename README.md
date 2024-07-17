@@ -1,7 +1,5 @@
 # DynamoDB Access with Python
 
-![DynamoDB](https://raw.githubusercontent.com/aws-samples/aws-dynamodb-examples/main/images/dynamodb.png)
-
 ## Overview
 
 This repository provides a Python script to access DynamoDB using AWS credentials. The script demonstrates how to retrieve an item from a DynamoDB table.
